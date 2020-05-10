@@ -1,1 +1,2 @@
-# CirQle-QC-Community
+# CirQle
+Official website of CirQle community
