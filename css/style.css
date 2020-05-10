@@ -965,6 +965,12 @@ Category page
 	display: flex;
 }
 
+.pic:hover
+{
+	opacity: 0.5;
+	filter: alpha(opacity=50);
+}
+
 .player_bars {
 	width: calc(100% - 145px);
 	position: relative;
