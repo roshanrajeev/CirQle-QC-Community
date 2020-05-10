@@ -211,12 +211,13 @@ Commom elements
 
 /*------------------
 Header section
+bgcolor def=08192d
  ---------------------*/
 
 .header-section {
 	padding-left: 55px;
 	padding-right: 72px;
-	background: #08192d;
+	background: #afafaf;
 }
 
 .site-logo {
@@ -561,7 +562,7 @@ Subscription section
 }
 
 /* ----------------
-Premium section 
+Premium section
  -------------------*/
 
 .premium-section p {
@@ -590,10 +591,11 @@ Premium section
 
 /* ----------------
 Responsive
+def = #0a183d
  -------------------*/
 
 .footer-section {
-	background: #0a183d;
+	background: #afafaf;
 	padding: 100px 0 85px;
 }
 
@@ -1813,7 +1815,7 @@ Responsive
 /*--------------
 News Feed
 ----------------*/
-.holder { 
+.holder {
 	/* background-color:#ccc; */
 	width:100%;
 	height:100%;
